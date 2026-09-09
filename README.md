@@ -18,14 +18,24 @@ Bu repodaki çözümler aşağıdaki temel algoritma mantıklarını içermekted
 **Basit Seviye (Easy)**
 
 | `ArtisSayisiniBul.py` | Dizilerde (Array) bir önceki güne göre artışları sayma. |
+
+
 | `EnUzunAliskanlik.py` | Bir listedeki ardışık 1'lerin en uzun serisini bulma (Max Consecutive Ones). |
+
+
 | `EnUzunKelime.py` | Metin (String) parçalama ve uzunluk karşılaştırması yapma. |
 
 **Orta Seviye (Medium)**
 
 | `EnyuksekKar.py` | Hisse senedinden elde edilebilecek en yüksek kârı O(n) hızında hesaplama. |
+
+
 | `FirstUniqueCharacter.py` | Bir metindeki ilk tekrar etmeyen harfi Sözlük (Hash Map) ile bulma. |
+
+
 | `İkiKelimeAnagram.py` | İki kelimenin anagram olup olmadığını kontrol etme. |
+
+
 | `MajorityElement.py` | Liste içinde en çok tekrar eden elemanı Sözlük mantığı ile bulma. |
 
 ## Nasıl Çalıştırılır?
