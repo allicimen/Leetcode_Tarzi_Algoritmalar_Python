@@ -1,4 +1,4 @@
-#  Python Algorithm & Problem Solving Practice
+#  Python Algorithm & Problem Solving Practice (TR)
 
 Bu depo, teknik mülakatlara, algoritma testlerine  hazırlık amacıyla çözdüğüm problemlerden ve optimize ettiğim kodlardan oluşmaktadır. 
 
@@ -47,13 +47,15 @@ Projeyi bilgisayarınıza klonladıktan sonra, herhangi bir Python dosyasını t
 
 
 
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
 
 
 
-
-# Python Algorithm & Problem Solving Practice
+# Python Algorithm & Problem Solving Practice (EN)
 
 This repository consists of problems I have solved and codes I have optimized in preparation for technical interviews and algorithm tests.
 
