@@ -1,3 +1,6 @@
+
+#bir tane sıralı sayı listesi var ama  1 sayı eksik o eksik sayıyı bulmaya çalişacağiz
+
 def eksik_sayiyi_bul_xor(sayilar):
     sonuc = 0
     n = len(sayilar)

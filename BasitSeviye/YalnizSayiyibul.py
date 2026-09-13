@@ -16,10 +16,10 @@
 
 def yalniz_sayiyi_bul(sayilar):
 
-    sayacDictionary = {}
+    sayacDictionary = {} #sözlük tanimlamasi  yaptık...soruyu sözlükle çözeceğiz...sözlük demek JSON formatı demek 
 
     for sayi in sayilar:
-        if sayi in sayacDictionary:  #eğer 4 sözlüğün (sayacDictionary) içinde varsa
+        if sayi in sayacDictionary:  #eğer 2 sözlüğün (sayacDictionary) içinde varsa
             sayacDictionary[sayi]+=1 # değeri 1 arttır
         else:# eğer yoksa ekle 
             sayacDictionary[sayi] = 1

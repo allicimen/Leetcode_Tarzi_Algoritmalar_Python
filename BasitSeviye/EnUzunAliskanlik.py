@@ -1,3 +1,5 @@
+
+
 def en_uzun_seriyi_bul(gunler):
     guncel_seri = 0
     en_uzun_seri = 0
@@ -15,7 +17,7 @@ def en_uzun_seriyi_bul(gunler):
     return en_uzun_seri
 
 
-gunler = [1, 1, 0, 1, 1, 1, 0, 1]
+gunler = [1, 1, 0, 1, 1, 1, 0, 1] #aliskanligin yapıldigi günler 1 yapılmamışsa 0 diye yazılmış
 print(en_uzun_seriyi_bul(gunler))
 print(len(gunler))
 

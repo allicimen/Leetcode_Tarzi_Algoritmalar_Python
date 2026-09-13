@@ -1,5 +1,5 @@
 
 
 
-metin =  "radar"
-print(len(metin))
+a = 5//2
+print(a)

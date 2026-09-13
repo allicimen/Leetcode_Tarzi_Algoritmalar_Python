@@ -22,8 +22,6 @@ def en_yuksek_kari_bul(fiyatlar):
     return maksimum_kar
 
 # Test etmek için:
-
-
 print(en_yuksek_kari_bul(TestList))
 
 #iterasyon durumunu adım adım yazalım 
