@@ -20,6 +20,5 @@ print(two_sum(nums, target))
 # i = 0 , num = 2 , compelement = 7 ,  seen { '2' : 0 }
 # i = 1 , num = 7 , compelement = 2 , if bloğuna girdi   0 , 1 ekrana verdi
 #returna girmediğini farz edip döngüyü  devam ettirelim
-# i = 2 , num = 11 , compelement = -2 ,  seen { '11' : -2 ,  }
-# i = 3 , num = 15 , compelement = -6 ,  seen { '15' : -6}
-#gördüğümüz  gibi sürekli sözlüğe onu 9 tamamlayan sayı  yazılıyor..
+# i = 2 , num = 11 , compelement = -2 ,  seen { '11' : 1}
+# i = 3 , num = 15 , compelement = -6 ,  seen { '15' : 2}
